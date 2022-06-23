@@ -13,3 +13,5 @@
 6. 기타 운영에 대하 의견이 있으시며 자유롭게 말씀해주시길 바랍니다.
 
 [게시판](https://github.com/jong1121/jong1121.github.io/issues)
+
+[오픈카톡](https://open.kakao.com/o/gqtrXMfe)
